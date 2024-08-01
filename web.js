@@ -141,6 +141,9 @@ app.get("/contact", (req, res) => {
         h1 {
           color: #333;
         }
+        p {
+          color: #666;
+        }
       </style>
       <title>Contact Us</title>
     </head>
